@@ -1,10 +1,1 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on ` something... `
-- 🌱 I’m currently learning ` something... `
-- 💬 Ask me about ` something... `
-- 📫 How to reach me: mrkhunt@uwaterloo.ca
-
-<!--
-**mrkhunt/mrkhunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+![github Banner 001](https://github.com/mrkhunt/mrkhunt/assets/82615934/7f49bc57-5d83-4d02-9d21-3f125873a323)
