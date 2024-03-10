@@ -46,4 +46,24 @@ Hi, I'm Mahdi Raza.
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Seaborn-black?style=for-the-badge&logo=data:image/svg%2bxml;base64,">
 
+<h2> Tools </h2>
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=white">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/PowerBI-black?style=for-the-badge&logo=PowerBI&logoColor=white">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Metabase-black?style=for-the-badge&logo=Metabase&logoColor=white">
+
 <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB&logoColor=white">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=white">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Latex-black?style=for-the-badge&logo=Latex&logoColor=white">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=Vercel&logoColor=white">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=Postman&logoColor=white">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=white">
