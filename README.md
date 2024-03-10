@@ -67,3 +67,19 @@ Hi, I'm Mahdi Raza.
 <img alt="Static Badge" src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=Postman&logoColor=white">
 
 <img alt="Static Badge" src="https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&logoColor=white">
+
+<h2> Profile </h2>
+
+<a href="https://github.com/mrkhunt"><img alt="Static Badge" src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white"></a>
+
+<a href="https://www.linkedin.com/in/mrkhunt/"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+
+<a href="https://leetcode.com/mrkhunt/"><img alt="Static Badge" src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=Leetcode&logoColor=white"></a>
+
+<a href="https://www.instagram.com/mathymahdi"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+
+<a href="mailto:mrkhunt@uwaterloo.ca"><img alt="Static Badge" src="https://img.shields.io/badge/Mail-black?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+<a href="https://medium.com/@mathymahdi"><img alt="Static Badge" src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white"></a>
+
+<a href="https://www.kaggle.com/mrkhunt"><img alt="Static Badge" src="https://img.shields.io/badge/kaggle-black?style=for-the-badge&logo=kaggle&logoColor=white"></a>
