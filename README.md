@@ -1,6 +1,14 @@
 ![github Banner 001](https://github.com/mrkhunt/mrkhunt/assets/82615934/7f49bc57-5d83-4d02-9d21-3f125873a323)
 
-Hi, I'm Mahdi Raza. 
+👋 Hey! I am a 2nd Year undergraduate student at the University of Waterloo pursuing Data Science!
+
+♾️ I absolutely love math! Whether it's cracking Math Olympiad problems or creating fun animations to explain concepts!
+
+💻 I'm super stoked to be diving into web development and app development right now!
+
+⭐️ In my free time, I am interested in Table Tennis, Pool and Robotics! 
+
+🔎 Feel free to reach out to me via LinkedIn or email at mrkhunt@uwaterloo.ca; I am always open for any opportunity!
 
 <h2> Languages </h2>
 
@@ -57,4 +65,5 @@ Hi, I'm Mahdi Raza.
     <a href="mailto:mrkhunt@uwaterloo.ca"><img alt="Static Badge" src="https://img.shields.io/badge/Mail-black?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://medium.com/@mathymahdi"><img alt="Static Badge" src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white"></a>
     <a href="https://www.kaggle.com/mrkhunt"><img alt="Static Badge" src="https://img.shields.io/badge/kaggle-black?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+    <a href="https://www.youtube.com/@mathymahdi"><img alt="Static Badge" src="https://img.shields.io/badge/Youtube-black?style=for-the-badge&logo=Youtube&logoColor=white"></a>
 </p>
