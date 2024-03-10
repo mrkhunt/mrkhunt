@@ -2,7 +2,3 @@
 Hi, I'm Mahdi Raza. 
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=white">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=white">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=white">
