@@ -4,27 +4,19 @@ Hi, I'm Mahdi Raza.
 
 <h2> Languages </h2>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=white" style="text-decoration:none;">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=C%2B%2B&logoColor=white" style="text-decoration:none;">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=C%23&logoColor=white">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=Swift&logoColor=white">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=Typescript&logoColor=white">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=Javascript&logoColor=white">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=white">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql&logoColor=white">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/R-black?style=for-the-badge&logo=R&logoColor=white">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/Racket-black?style=for-the-badge&logo=Racket&logoColor=white">
+<p>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=C%23&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=Swift&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=Typescript&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=Javascript&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/R-black?style=for-the-badge&logo=R&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Racket-black?style=for-the-badge&logo=Racket&logoColor=white">
+</p>
 
 <h2> Frameworks </h2>
 
@@ -78,8 +70,8 @@ Hi, I'm Mahdi Raza.
 
 <a href="https://www.instagram.com/mathymahdi"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
-<a href="mailto:mrkhunt@uwaterloo.ca" style="text-decoration:none;"><img alt="Static Badge" src="https://img.shields.io/badge/Mail-black?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:mrkhunt@uwaterloo.ca"><img alt="Static Badge" src="https://img.shields.io/badge/Mail-black?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-<a href="https://medium.com/@mathymahdi" style="text-decoration:none;"><img alt="Static Badge" src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white"></a>
+<a href="https://medium.com/@mathymahdi"><img alt="Static Badge" src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white"></a>
 
-<a href="https://www.kaggle.com/mrkhunt" style="text-decoration:none;"><img alt="Static Badge" src="https://img.shields.io/badge/kaggle-black?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+<a href="https://www.kaggle.com/mrkhunt"><img alt="Static Badge" src="https://img.shields.io/badge/kaggle-black?style=for-the-badge&logo=kaggle&logoColor=white"></a>
