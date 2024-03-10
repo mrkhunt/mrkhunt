@@ -4,9 +4,9 @@ Hi, I'm Mahdi Raza.
 
 <h2> Languages </h2>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=white" style="text-decoration:none;">
 
-<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=C%2B%2B&logoColor=white" style="text-decoration:none;">
 
 <img alt="Static Badge" src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=C%23&logoColor=white">
 
