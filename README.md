@@ -26,6 +26,24 @@ Hi, I'm Mahdi Raza.
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Racket-black?style=for-the-badge&logo=Racket&logoColor=white">
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Go-black?style=for-the-badge&logo=Go&logoColor=white">
+<h2> Frameworks </h2>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=Rust&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Node-black?style=for-the-badge&logo=Node.js&logoColor=white">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express&logoColor=white">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=white">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=Next.js&logoColor=white">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=Pandas&logoColor=white">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/scikitlearn-black?style=for-the-badge&logo=scikitlearn&logoColor=white">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Numpy-black?style=for-the-badge&logo=Numpy&logoColor=white">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=data:image/svg%2bxml;base64,">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Seaborn-black?style=for-the-badge&logo=data:image/svg%2bxml;base64,">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB&logoColor=white">
