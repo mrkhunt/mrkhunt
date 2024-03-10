@@ -78,8 +78,8 @@ Hi, I'm Mahdi Raza.
 
 <a href="https://www.instagram.com/mathymahdi"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
-<a href="mailto:mrkhunt@uwaterloo.ca"><img alt="Static Badge" src="https://img.shields.io/badge/Mail-black?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:mrkhunt@uwaterloo.ca" style="text-decoration:none;"><img alt="Static Badge" src="https://img.shields.io/badge/Mail-black?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-<a href="https://medium.com/@mathymahdi"><img alt="Static Badge" src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white"></a>
+<a href="https://medium.com/@mathymahdi" style="text-decoration:none;"><img alt="Static Badge" src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white"></a>
 
-<a href="https://www.kaggle.com/mrkhunt"><img alt="Static Badge" src="https://img.shields.io/badge/kaggle-black?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+<a href="https://www.kaggle.com/mrkhunt" style="text-decoration:none;"><img alt="Static Badge" src="https://img.shields.io/badge/kaggle-black?style=for-the-badge&logo=kaggle&logoColor=white"></a>
