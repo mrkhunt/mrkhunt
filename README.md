@@ -1,13 +1,9 @@
 ![github Banner 001](https://github.com/mrkhunt/mrkhunt/assets/82615934/7f49bc57-5d83-4d02-9d21-3f125873a323)
 
 👋 Hey! I am a 2nd Year undergraduate student at the University of Waterloo pursuing Data Science!
-
 ♾️ I absolutely love math! Whether it's cracking Math Olympiad problems or creating fun animations to explain concepts!
-
 💻 I'm super stoked to be diving into web development and app development right now!
-
 ⭐️ In my free time, I am interested in Table Tennis, Pool and Robotics! 
-
 🔎 Feel free to reach out to me via LinkedIn or email at mrkhunt@uwaterloo.ca; I am always open for any opportunity!
 
 <h2> Languages </h2>
